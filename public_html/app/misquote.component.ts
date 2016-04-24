@@ -1,7 +1,7 @@
 import {Component} from "angular2/core";
 
 @Component({
-	selector: "mistquote-app",
+	selector: "misquote-app",
 	templateUrl: "app/templates/splash-page.html"
 })
 
